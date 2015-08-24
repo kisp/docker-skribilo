@@ -1,2 +1,2 @@
 # docker-skribilo
-Dockerfile for Skribilo.
+Dockerfile for [Skribilo](http://www.nongnu.org/skribilo/).
